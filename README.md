@@ -27,8 +27,7 @@ Básico - Intermedio
 ## 📺 Video de la clase
 
 [![Ver clase en YouTube](https://img.youtube.com/vi/6_zAv47YlsY/hqdefault.jpg)](https://youtu.be/6_zAv47YlsY)
-
-[Ver clase en YouTube](https://youtu.be/Qw9fYs4NRtA)
+[Ver clase en YouTube](https://youtu.be/6_zAv47YlsY)
 
 ---
 
